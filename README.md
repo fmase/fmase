@@ -16,6 +16,12 @@ Hey 👋
 
 ---
 
+## 🛠️ Tools & Technologies
+
+<img src="icons/openwrt.svg" alt="OpenWrt" height="32"/> <img src="icons/linux.svg" alt="Linux" height="32"/> <img src="icons/zerotier.svg" alt="ZeroTier" height="32"/> <img src="icons/wireguard.svg" alt="WireGuard" height="32"/> <img src="icons/iptables.svg" alt="iptables" height="32"/> <img src="icons/tcpdump.svg" alt="tcpdump" height="32"/> <img src="icons/iot.svg" alt="IoT" height="32"/> <img src="icons/lora.svg" alt="LoRa" height="32"/>
+
+---
+
 Ciao 👋
 
 🧠 Mi chiamano mcmas — "MC" come soprannome, "mas" dal cognome.
